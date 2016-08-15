@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    wikipedia-client (1.6.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  wikipedia-client
+
+BUNDLED WITH
+   1.12.5
